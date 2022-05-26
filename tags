@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/beethoven/Templates/Rust/exponentiation-rust/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+0	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	o	array:local
+17598535894874457435	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	o	object:outputs
+2797684049618456168	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	o	object:outputs
+5309432699494263626	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	o	object:outputs
+931469667778813386	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	o	object:outputs
+CheckDepInfo	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	o	object:local.0
+code	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	n	object:outputs.17598535894874457435
+code	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	n	object:outputs.2797684049618456168
+code	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	n	object:outputs.5309432699494263626
+code	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	n	object:outputs.931469667778813386
+compile_kind	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
+config	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
+dep_info	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	a
+exponentiation	src/main.rs	/^fn exponentiation(x: f64, n: i64) {$/;"	f
+features	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	s
+local	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	a
+main	src/main.rs	/^fn main() {$/;"	f
+metadata	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	o
+path	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
+profile	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
+rustc	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	n
+rustflags	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	a
+status	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.17598535894874457435
+status	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.2797684049618456168
+status	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.5309432699494263626
+status	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.931469667778813386
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.17598535894874457435
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.2797684049618456168
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.5309432699494263626
+stderr	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.931469667778813386
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.17598535894874457435
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.2797684049618456168
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.5309432699494263626
+stdout	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	s	object:outputs.931469667778813386
+success	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	b	object:outputs.17598535894874457435
+success	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	b	object:outputs.2797684049618456168
+success	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	b	object:outputs.5309432699494263626
+success	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	b	object:outputs.931469667778813386
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":5581478509695358797,"outputs":{"931469667778813386":{"success":true,"status/;"	o
+target	target/debug/.fingerprint/exponentiation-rust-a61eb8bc65332dbd/bin-exponentiation-rust.json	/^{"rustc":8352244520057650701,"features":"[]","target":11403518164502046814,"profile":92510136562/;"	n
